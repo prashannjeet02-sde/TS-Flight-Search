@@ -47,4 +47,4 @@ class CountryRepository{
     }
 }
 
-module.exports=CountryRepository
+module.exports = CountryRepository 
