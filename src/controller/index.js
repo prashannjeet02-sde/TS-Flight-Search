@@ -1,4 +1,5 @@
 module.exports = {
     CityController: require("./city.controller"),
-    CountryController:require("./country.controller")
+    CountryController: require("./country.controller"),
+    AirportController:require("./airport.controller")
 }
