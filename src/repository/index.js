@@ -1,5 +1,6 @@
 module.exports = {
     CityRepo: require("./city.repo"),
     CountryRepo: require("./country.repo"),
-    AirportRepo:require("./airport.repo")
+    AirportRepo: require("./airport.repo"),
+    AirplaneRepo:require("./airplane.repo")
 }
